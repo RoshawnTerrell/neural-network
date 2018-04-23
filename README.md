@@ -1,6 +1,6 @@
 # Hierarchical Abstraction Network
 
-### Visual Examples Of Higher Order Layering
+### Visual Examples of Higher Order Layering
 ### Level 1 and Level 2 layering
 ![hierarchical abstraction network_img1](https://user-images.githubusercontent.com/16980088/38771472-82fc9064-3fe9-11e8-8e98-5b6ed21ce51f.png)
 ### Level 3 layering
